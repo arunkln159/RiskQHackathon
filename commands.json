@@ -1,0 +1,35 @@
+[
+    {
+        "command": "process_data",
+        "parameters": {
+            "field1": "ISSUE-000001",
+            "field2": "ABC",
+            "field3": "Open",
+            "field4": "Significant",
+            "field5": 0,
+            "field6": "Arun"
+        }
+    },
+    {
+        "command": "process_data",
+        "parameters": {
+            "field1": "ISSUE-000002",
+            "field2": "CDF",
+            "field3": "Open",
+            "field4": "Limited",
+            "field5": 0,
+            "field6": "Arun"
+        }
+    },
+    {
+        "command": "process_data",
+        "parameters": {
+            "field1": "ISSUE-000003",
+            "field2": "GHI",
+            "field3": "Closed",
+            "field4": "Significant",
+            "field5": 0,
+            "field6": "Subbu"
+        }
+    }
+]
